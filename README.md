@@ -14,3 +14,5 @@ Top 5 processes by CPU usage
 Top 5 processes by memory usage
 
 Stretch goal: Feel free to optionally add more stats such as os version, uptime, load average, logged in users, failed login attempts etc.
+
+Project URL : https://github.com/arif4ansari/Server-Performance-Stats/tree/main
